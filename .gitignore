@@ -1,0 +1,12 @@
+# Terraform
+terraform/.terraform
+terraform/*.tfstate
+.terraform/
+*.tfstate*
+
+# Ansible
+*.retry
+
+# Vagrant
+.vagrant/
+*.log
